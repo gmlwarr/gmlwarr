@@ -1,4 +1,4 @@
 # Welcome! 
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmlwarr&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmlwarr&theme=algolia&show_icons=true)
